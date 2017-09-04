@@ -1,6 +1,8 @@
 # git for science
 
-A 2 hour session about how to use git for science.
+A workshop about how to use git for managing science tasks. Or 'how to spend less time hunting for the last working version; and keep track of collaborative works'
+
+nb EGU timeslots are 1.5 hours but we can ask for as long as we need. How long should this course be? 3.5 hours?
 
 ### workshop overview and goals [10min]
 
