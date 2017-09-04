@@ -38,6 +38,8 @@ Learning expectations:
 - construct a paper in a revision friendly way (need help here: I can see how LaTEX would work here.. or markdown.. anything else?
 - push your changes
 - work with a collaborative team
+- **Hint**: use [draw.io](https://www.draw.io/) to generated diagrams stored on GitHub. 
+- **Note**: private repos on GitHub are [free for academic research](https://help.github.com/articles/applying-for-an-academic-research-discount/). 
 
 ### discussion [20 mins]
 
